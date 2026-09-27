@@ -5,8 +5,7 @@ export const PROFILE = {
   brand: 'Imperiumdev',
   roles: ['Product Designer', 'Full Stack Developer', 'Brand & Visual Designer'],
   location: 'Lagos, Nigeria',
-  // TODO: replace with your real address — the old site used a placeholder (timothy@example.com)
-  email: 'timothy@example.com',
+  email: 'elitegraphicshub@gmail.com',
   whatsapp: 'https://wa.me/2349065563764',
   cv: 'cv.pdf',
   avatar: 'images/avatar.webp',
@@ -59,7 +58,7 @@ export const CLIENTS = [
 export const STATS = [
   { value: '10+', label: 'Apps shipped' },
   { value: '15+', label: 'Web projects' },
-  { value: '3+', label: 'Years experience' },
+  { value: '4+', label: 'Years experience' },
   { value: '12+', label: 'Figma projects' },
 ]
 

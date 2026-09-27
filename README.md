@@ -17,7 +17,6 @@ npm install       # first time only
 npm run dev       # live preview in the browser while you edit
 npm run build     # regenerates index.html + images/ in this folder
 
-**TODO:** set your real email in `PROFILE.email` (source/src/data.js).
 
 ## Deploy
 Drag this folder onto Netlify Drop, or push to GitHub and use GitHub Pages
