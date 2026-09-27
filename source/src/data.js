@@ -53,6 +53,7 @@ export const CLIENTS = [
   { name: 'Relentless Frames', font: "'Source Serif 4', serif", weight: 600 },
   { name: 'COTEF', font: 'system-ui, sans-serif', weight: 800 },
   { name: 'Sabeis Homes', font: 'Georgia, serif', weight: 700 },
+  { name: 'Debit', font: 'system-ui, sans-serif', weight: 800 },
 ]
 
 export const STATS = [
@@ -217,6 +218,15 @@ export const PROJECTS = [
   },
 
   // ---------- GitHub (open repos with live demos) ----------
+  {
+    cat: 'github',
+    title: 'Debit Streetwear',
+    year: 2026,
+    image: img('gh-debit'),
+    tags: ['E-Commerce', 'Fashion'],
+    desc: 'A storefront for Debit, a luxury streetwear label with a modern Nigerian identity — collections, product filters, a shopping bag, and checkout straight to WhatsApp.',
+    links: [live('https://timothy7380.github.io/debitbyrecent/'), gh('debitbyrecent')],
+  },
   {
     cat: 'github',
     title: '329 Grooming Lounge',
