@@ -1437,3 +1437,12 @@ html {
 .filters {
   flex-wrap: nowrap;
 }
+
+/* Give the ® clear space from the italic "v" (italic overhang + tight tracking) */
+.hero__reg {
+  margin-left: 0.3em;
+}
+
+.logo__reg {
+  margin-left: 5px;
+}
