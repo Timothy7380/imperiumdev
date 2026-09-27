@@ -24,7 +24,7 @@ export default function Hero() {
         </div>
 
         <h1 className="hero__title">
-          Premium design &amp; code, <span className="serif-italic">imperium</span>
+          Premium design &amp; code, <span className="serif-italic">imperiumdev</span>
           <sup className="hero__reg">®</sup> on demand.
         </h1>
 

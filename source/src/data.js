@@ -2,7 +2,7 @@
 
 export const PROFILE = {
   name: 'Timothy Olaomoju',
-  brand: 'Imperium',
+  brand: 'Imperiumdev',
   roles: ['Product Designer', 'Full Stack Developer', 'Brand & Visual Designer'],
   location: 'Lagos, Nigeria',
   // TODO: replace with your real address — the old site used a placeholder (timothy@example.com)

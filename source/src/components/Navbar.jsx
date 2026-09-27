@@ -58,7 +58,7 @@ export default function Navbar() {
               </a>
             ))}
           </div>
-          <span>© {new Date().getFullYear()} Imperium® · {PROFILE.name}</span>
+          <span>© {new Date().getFullYear()} Imperiumdev® · {PROFILE.name}</span>
         </footer>
       </div>
     </>

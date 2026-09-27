@@ -1,4 +1,4 @@
-# Imperium — Timothy Olaomoju Portfolio
+# Imperiumdev — Timothy Olaomoju Portfolio
 
 ## View the site
 Double-click **index.html** in this folder. No install or server needed.
