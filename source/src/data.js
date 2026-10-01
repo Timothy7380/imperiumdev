@@ -54,6 +54,7 @@ export const CLIENTS = [
   { name: 'COTEF', font: 'system-ui, sans-serif', weight: 800 },
   { name: 'Sabeis Homes', font: 'Georgia, serif', weight: 700 },
   { name: 'Debit', font: 'system-ui, sans-serif', weight: 800 },
+  { name: 'OMP Moments', font: "'Cedarville Cursive', cursive", weight: 700 },
 ]
 
 export const STATS = [
@@ -218,6 +219,15 @@ export const PROJECTS = [
   },
 
   // ---------- GitHub (open repos with live demos) ----------
+  {
+    cat: 'github',
+    title: 'OMP Moments',
+    year: 2026,
+    image: img('gh-omp'),
+    tags: ['Photography', 'Interactive 3D'],
+    desc: 'A portfolio for a top Lagos event photographer — an intro film, a drag-to-rotate 3D sphere of 250+ photos, and a filterable archive of weddings, portraits and celebrations.',
+    links: [live('https://timothy7380.github.io/omp-moments/'), gh('omp-moments')],
+  },
   {
     cat: 'github',
     title: 'Debit Streetwear',
