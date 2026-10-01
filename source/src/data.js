@@ -55,6 +55,7 @@ export const CLIENTS = [
   { name: 'Sabeis Homes', font: 'Georgia, serif', weight: 700 },
   { name: 'Debit', font: 'system-ui, sans-serif', weight: 800 },
   { name: 'OMP Moments', font: "'Cedarville Cursive', cursive", weight: 700 },
+  { name: 'WACPEOPLE', font: "'Inter', sans-serif", weight: 700 },
 ]
 
 export const STATS = [
@@ -219,6 +220,15 @@ export const PROJECTS = [
   },
 
   // ---------- GitHub (open repos with live demos) ----------
+  {
+    cat: 'github',
+    title: 'WACPEOPLE',
+    year: 2026,
+    image: img('gh-wac'),
+    tags: ['Redesign Concept', 'Creative Network'],
+    desc: 'A homepage redesign for WACPEOPLE, a network of reliable creatives — a fanned card gallery of member work, a Scout → Test → Position → Deploy story, and paths for creatives and hirers.',
+    links: [live('https://timothy7380.github.io/wacpeople-site/'), gh('wacpeople-site')],
+  },
   {
     cat: 'github',
     title: 'OMP Moments',
