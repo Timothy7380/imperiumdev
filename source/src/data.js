@@ -56,6 +56,7 @@ export const CLIENTS = [
   { name: 'Debit', font: 'system-ui, sans-serif', weight: 800 },
   { name: 'OMP Moments', font: "'Cedarville Cursive', cursive", weight: 700 },
   { name: 'WACPEOPLE', font: "'Inter', sans-serif", weight: 700 },
+  { name: 'Kora Luxe', font: "'Source Serif 4', serif", weight: 600 },
 ]
 
 export const STATS = [
@@ -220,6 +221,15 @@ export const PROJECTS = [
   },
 
   // ---------- GitHub (open repos with live demos) ----------
+  {
+    cat: 'github',
+    title: 'Kora Luxe Strands',
+    year: 2026,
+    image: img('gh-kora'),
+    tags: ['E-Commerce', 'Beauty'],
+    desc: 'A storefront for Kora Luxe, a premium human-hair wig brand — shop by category, a wig guide, hair-care notes, a shopping bag with WhatsApp ordering, and a new-drops signup.',
+    links: [live('https://timothy7380.github.io/kora-luxe-website/'), gh('kora-luxe-website')],
+  },
   {
     cat: 'github',
     title: 'WACPEOPLE',
