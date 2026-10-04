@@ -32,7 +32,7 @@ export const TICKER = [
   'Product Design',
   'UI / UX',
   'Web Development',
-  'App Development',
+  'Mobile Development',
   'Brand Identity',
   'Visual Design',
 ]
@@ -86,7 +86,7 @@ export const SERVICES = [
   {
     id: 'apps',
     num: '03',
-    title: 'App Development',
+    title: 'Mobile Development',
     tagline: 'Mobile apps shipped to the stores.',
     body: 'Cross-platform products across logistics, banking, health, events and commerce — live on the App Store and Google Play.',
     tags: ['iOS', 'Android', 'React Native', 'Store Ready'],
@@ -105,7 +105,7 @@ export const CATEGORIES = [
   { id: 'all', label: 'All' },
   { id: 'uiux', label: 'UI / UX' },
   { id: 'web', label: 'Web' },
-  { id: 'apps', label: 'Apps' },
+  { id: 'apps', label: 'Mobile' },
   { id: 'brand', label: 'Brand' },
   { id: 'github', label: 'GitHub' },
 ]
