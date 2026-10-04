@@ -57,6 +57,7 @@ export const CLIENTS = [
   { name: 'OMP Moments', font: "'Cedarville Cursive', cursive", weight: 700 },
   { name: 'WACPEOPLE', font: "'Inter', sans-serif", weight: 700 },
   { name: 'Kora Luxe', font: "'Source Serif 4', serif", weight: 600 },
+  { name: 'Elevation Teenz', font: 'system-ui, sans-serif', weight: 800 },
 ]
 
 export const STATS = [
@@ -221,6 +222,15 @@ export const PROJECTS = [
   },
 
   // ---------- GitHub (open repos with live demos) ----------
+  {
+    cat: 'github',
+    title: 'Elevation Teenz',
+    year: 2026,
+    image: img('gh-elevation'),
+    tags: ['Faith Community', 'Supabase'],
+    desc: 'A web app for Teenz Nation, the teen ministry of The Elevation Church — Bible studies with quizzes, streaks and badges, a private journal, a prayer wall, and Connect for chatting with mentors and friends.',
+    links: [live('https://timothy7380.github.io/elevation-teenz/'), gh('elevation-teenz')],
+  },
   {
     cat: 'github',
     title: 'Kora Luxe Strands',
